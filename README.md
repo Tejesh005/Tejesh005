@@ -59,7 +59,7 @@ I'm a Data Engineer with **6+ years of IT experience**, including **3+ years spe
 
 ## 💼 Work Experience
 
-### 🔹 Data Engineer — Tredence Analytics *(Aug 2025 – Nov 2025)*
+### 🔹 Data Engineer — Tredence Analytics *(Aug 2025 – till now)*
 **Client:** Kimberly Clark | **Project:** ETT-SIOP (Supply Chain)
 - Designed and implemented Snowflake-based data pipelines for Supply Chain SIOP analytics
 - Built ELT workflows integrating source ERP data into analytics-ready Snowflake layers
